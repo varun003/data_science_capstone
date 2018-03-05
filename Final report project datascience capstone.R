@@ -1,5 +1,5 @@
 
-setwd("F:/ANALYTICS DATA/R/DATA MANIPULATION/Data Science Capstone/final/en_US")
+
 
 library(tm)
 library(dplyr)
